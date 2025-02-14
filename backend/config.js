@@ -1,3 +1,3 @@
 module.exports={
-    JWT_SECRET: "Mohit_Server"
+    JWT_SECRET: "<JWT Secret>"
 }
